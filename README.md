@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-My first homework on GoIT (HTML)
+# goit-markup-hw-02
+My secons homework on GoIT (HTML)
